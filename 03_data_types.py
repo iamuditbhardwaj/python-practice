@@ -1,4 +1,4 @@
-# Data Types in Python
+# Data Types in Python 
 
 # String
 name = "Alice"  
