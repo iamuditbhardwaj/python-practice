@@ -10,7 +10,7 @@ print("Age:", age)
 print("Height:", height)
 print("Is Student:", is_student)
 
-# Rules for naming variables in Python
+# Rules for naming variables in Python:
 # 1. Variable names can only contain letters, numbers, and underscores.
 # 2. Variable names can start with a letter or an underscore.
 # 3. Variable names cannot start with a number.
