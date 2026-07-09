@@ -13,6 +13,8 @@ print(math.sqrt(16))
 '''An external module can be installed using pip (Python package installer) 
    and then imported into a Python program.'''
 # For example:
+# To install an external module, you can use the following command in the terminal:
+# pip install pyjokes
 import pyjokes  
 joke = pyjokes.get_joke() # Prints a random joke
 print(joke)
