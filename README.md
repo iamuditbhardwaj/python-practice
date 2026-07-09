@@ -3,8 +3,7 @@
 Hi, I'm Udit.
 
 # About this repository
-This repository contains my Python practice programs as I learn programming and Data Science. I have created this repository so i can track my learning progress using Git
-and Github.
+This repository contains my Python practice programs as I learn programming and Data Science. I created this repository to track my learning progress, practice consistently, and document my journey using Git and GitHub.
 
 ## Goals
 - Learn Python
