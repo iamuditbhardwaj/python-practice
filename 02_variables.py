@@ -1,4 +1,6 @@
 # Variables in Python
+
+# A variable is a name given to a memory location in Python which can store data 
 name = "James" #String variable
 age = 18  #Integer variable
 height = 5.6  #Float variable
