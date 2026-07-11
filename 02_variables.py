@@ -6,7 +6,7 @@ age = 18  #Integer variable
 height = 5.6  #Float variable
 is_student = True  #Boolean variable
 
-# printing the person's details
+# Print the person's details
 print("Name:", name)
 print("Age:", age)
 print("Height:", height)
@@ -19,3 +19,5 @@ print("Is Student:", is_student)
 # 4. Variable names cannot contain spaces or special characters.
 # 5. Python variable names are case-sensitive.
 # Example: age and Age are different variables
+# 6. Avoid using Python keywords as variable names.
+# Example: class, if, for, while, etc.
