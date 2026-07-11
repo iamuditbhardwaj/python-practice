@@ -1,22 +1,26 @@
 # Data Types in Python 
 
-# String
+# In order to determine the data type of a variable in Python, you can use the following syntax:
+# variable_name = data
+# print(type(variable_name))
+
+# String Data Type
 name = "Alice"  
 print(type(name))  # Output: <class 'str'>
 
-# Integer
+# Integer Data Type
 age = 18  
 print(type(age))  # Output: <class 'int'>
 
-# Float
+# Float Data Type
 height = 5.6  
 print(type(height))  # Output: <class 'float'>
 
-# Boolean
+# Boolean Data Type
 is_student = True  
 print(type(is_student))  # Output: <class 'bool'>
 
-# NoneType
+# NoneType Data Type
 e = None  
 print(type(e))  # Output:<class 'NoneType'>
 
