@@ -7,3 +7,6 @@ print("Today I've learned about variables, data types, comments and modules in P
 
 print("Day 3 of my python journey!...")
 print("Today I've learned about operators in Python.")
+
+print("Day 4 of my python journey!...")
+print("Today I've learned about typecasting in Python.")
