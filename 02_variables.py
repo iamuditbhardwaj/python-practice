@@ -21,3 +21,4 @@ print("Is Student:", is_student)
 # Example: age and Age are different variables
 # 6. Avoid using Python keywords as variable names.
 # Example: class, if, for, while, etc.
+# 7. Avoid starting variable names with a capital letter. By convention, names that begin with a capital letter are typically used for classes in Python.
