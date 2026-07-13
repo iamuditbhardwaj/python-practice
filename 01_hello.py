@@ -10,3 +10,6 @@ print("Today I've learned about operators in Python.")
 
 print("Day 4 of my python journey!...")
 print("Today I've learned about typecasting in Python.")
+
+print("Day 5 of my python journey!...")
+print("Today I've learned about input() in Python.")
