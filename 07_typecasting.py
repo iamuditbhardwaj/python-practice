@@ -40,6 +40,7 @@ print(type(c2))
 # A string representing a decimal number cannot be directly converted to an integer.
 # Example: int("3.14")   -> ValueError
 # It must first be converted to float, then to int.
+# Note: When number is converted from float to integer datatype, integer part of the number is taken and decimal part is removed.
 
 # Converting a float to an integer removes the decimal part.
 # Example: int(3.14) -> 3
