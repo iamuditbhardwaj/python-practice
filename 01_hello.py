@@ -1,15 +1,7 @@
 print("Hello, GitHub!")
 print("My name is Udit.")
 print("I'm starting my Python journey.")
+print("This is my first python code.")
+print("Thank you!")
 
-print("Day 2 of my python journey!...")
-print("Today I've learned about variables, data types, comments and modules in Python.")
 
-print("Day 3 of my python journey!...")
-print("Today I've learned about operators in Python.")
-
-print("Day 4 of my python journey!...")
-print("Today I've learned about typecasting in Python.")
-
-print("Day 5 of my python journey!...")
-print("Today I've learned about input() in Python.")
