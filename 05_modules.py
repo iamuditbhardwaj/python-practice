@@ -1,7 +1,7 @@
 # Modules in Python
 
 '''Modules are files containing Python code that can be imported and used in other Python programs.
-   Modules can be built-in (provided by Python) or user-defined (created by the user).
+   Modules can be built-in (provided by Python) or external (installed separately).
 i.e built-in modules or external modules'''
 
 # 1. Built-in Modules
@@ -16,6 +16,6 @@ print(math.sqrt(16))
 # To install an external module, you can use the following command in the terminal:
 # pip install pyjokes
 import pyjokes  
-joke = pyjokes.get_joke() # Prints a random joke
+joke = pyjokes.get_joke() # Gets a random joke
 print(joke)
 
