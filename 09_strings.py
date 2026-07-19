@@ -69,7 +69,8 @@ function_1 = "mathematics"
 function_2 = "MATHS"
 
 # 1. len() - Returns the length of the string
-print(len(function_1))  
+print(len(function_1))
+print(len(function_2))  
 
 # 2. startswith() - Returns True if the string starts with the specified prefix, otherwise False
 print(function_1.startswith("math"))  
@@ -77,10 +78,11 @@ print(function_1.startswith("Hello"))
 
 # 3. endswith() - Returns True if the string ends with the specified suffix, otherwise False
 print(function_1.endswith("Hello"))  
-print(function_1.endswith("tics"))  
+print(function_2.endswith("HS"))  
 
 # 4. capitalize() - Capitalizes the first character of the string and converts the rest to lowercase.
 print(function_1.capitalize())  # Output : Mathematics
+print(function_2.capitalize())  # Output : Maths
 
 # 5. upper() - Converts all characters in the string to uppercase
 print(function_1.upper())
@@ -88,11 +90,12 @@ print(function_1.upper())
 # 6. lower() - Converts all characters in the string to lowercase
 print(function_2.lower())
 
-# 7. find() - Returns the index of the first occurrence of the specified substring, or -1 if not found
-print(function_1.find("the")) # Output : 2
-print(function_1.find("xyz")) # Output : -1
 
 function_3 = "I love Programming. Programming is fun."
+
+# 7. find() - Returns the index of the first occurrence of the specified substring, or -1 if not found
+print(function_3.find("Programming")) # Output : 7
+print(function_3.find("xyz")) # Output : -1
 
 # 8. replace() - Replaces all occurrences of a specified substring with another substring
 print(function_3.replace("Programming", "Coding"))  
