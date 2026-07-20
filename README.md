@@ -20,3 +20,4 @@ This repository contains my Python practice programs as I learn programming and 
 - Typecasting
 - Input()
 - Strings
+- Lists
