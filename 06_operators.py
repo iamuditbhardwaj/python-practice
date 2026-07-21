@@ -46,3 +46,7 @@ print("True or True is:", p or p )
 print("True or False is:", p or q )
 print("False or True is:", q or p )
 print("False or False is:", q or q )
+
+# Truth table for Logical NOT
+print("True is: ", not(p))
+print("False is: ", not(q))
