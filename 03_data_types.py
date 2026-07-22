@@ -1,8 +1,7 @@
 # Data Types in Python 
 
 # In order to determine the data type of a variable in Python, you can use the following syntax:
-# variable_name = data
-# print(type(variable_name))
+# type(variable_name)
 
 # String Data Type
 name = "Alice"  
