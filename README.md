@@ -12,13 +12,7 @@ This repository contains my Python practice programs as I learn programming and 
 - Improve every day
 
 # Topics Covered
-- Variables
-- Data types
-- Comments
-- Modules
-- Operators
-- Typecasting
-- Input()
+- Basics
 - Strings
 - Lists
 - Tuples
