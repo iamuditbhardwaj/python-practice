@@ -16,3 +16,4 @@ This repository contains my Python practice programs as I learn programming and 
 - Strings
 - Lists
 - Tuples
+- Dictionary
