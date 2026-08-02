@@ -1,4 +1,4 @@
-# Python Practice
+# Python Programming
 
 Hi, I'm Udit.
 
